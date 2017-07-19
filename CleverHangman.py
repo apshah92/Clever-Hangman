@@ -1,7 +1,7 @@
 '''
 Created on Nov 27, 2016
 
-@author: Kelly McLaughlin
+@author: Arpan Shah
 '''
 import random
 
